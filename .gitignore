@@ -3,3 +3,4 @@ dist
 
 # file
 ormconfig.json
+auth.ts
